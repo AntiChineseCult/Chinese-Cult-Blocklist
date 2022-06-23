@@ -1,4 +1,4 @@
-! Title: Anti Chinese Cult (AdGuard)
+! Title: Anti Chinese Cult
 ! Source: https://raw.githubusercontent.com/AntiChineseCult/Chinese-Cult-Blocklist/master/adguard.txt
 ! Home: https://github.com/AntiChineseCult/Chinese-Cult-Blocklist
 ! Contribute:https://github.com/AntiChineseCult/Chinese-Cult-Blocklist/issues
