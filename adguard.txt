@@ -25,4 +25,6 @@
 ||epochtimes.com.ua^
 ||epochtimes.bg^
 ||epochtimesviet.com^
-
+||shenyunperformingarts.org^
+||tuidang.org^
+||quitccp.jp^
