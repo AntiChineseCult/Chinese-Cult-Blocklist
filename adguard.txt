@@ -4,10 +4,25 @@
 ! Contribute:https://github.com/AntiChineseCult/Chinese-Cult-Blocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||theepochtimes.com^
 ||epochtimes.com^
-||epochtimes.bg^
+||theepochtimes.com^
 ||epochtimes.cz^
 ||epochtimes.nl^
-||ahenana.com^
-||airmaxskobillige.com^
+||epochtimes.fr^
+||epochtimes.de^
+||erabaru.net^
+||epochtimes.it^
+||epochtimes.jp^
+||theepochtimes.com^
+||persianepochtimes.com^
+||epochtimes.pl^
+||epochtimes.com.br^
+||epochtimes-romania.com^
+||epochtimes.ru^
+||epochtimes.cz^
+||epochtimes.se^
+||epochtimestr.com^
+||epochtimes.com.ua^
+||epochtimes.bg^
+||epochtimesviet.com^
+
