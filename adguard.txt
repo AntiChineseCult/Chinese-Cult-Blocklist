@@ -70,3 +70,4 @@
 ||xinsheng.net^
 ||bcbay.com^
 ||faluninfo.net^
+||bannedbook.org^
