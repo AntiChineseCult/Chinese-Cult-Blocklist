@@ -4,4 +4,4 @@
 # 简体中文版
 这个AdGuard过滤器是由香港同胞制作，我们收集了中国邪教法轮功的所有网站（包括假新闻网站），未来将会加入其他邪教网站。
 # English
-This AdGuard filter is made by HongKongers, we aim to block all Chinese Cult Websites(mostly Falungong now), and will be adding more sites in this filter soon.
+This AdGuard filter is made by HongKongers, we aim to block all Chinese cult websites(mostly Falungong now), and will be adding more sites in this filter soon.
