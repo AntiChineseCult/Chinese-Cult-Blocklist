@@ -28,3 +28,10 @@
 ||shenyunperformingarts.org^
 ||tuidang.org^
 ||quitccp.jp^
+||ntdtv.com^
+||ntdtv.fr^
+||ntdtv.ru^
+||ntdtv.jp^
+||ntdtv.kr^
+||tiantibooks.org^
+||epochweekly.com^
