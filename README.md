@@ -1,4 +1,4 @@
-# Chinese-Cult-Blocklist 中國邪教網站列表
+# Chinese Cult Blocklist 中國邪教網站列表
 # 香港中文版
 呢個AdGuard Filter係我哋香港人整出嚟嘅，我哋收集咗中國邪教，當中以法輪功集團旗下嘅所有網站為主（包括假新聞），未來會加入埋其他邪教網站。
 # 简体中文版
