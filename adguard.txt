@@ -72,3 +72,7 @@
 ||faluninfo.net^
 ||bannedbook.org^
 ||ipkmedia.com^
+||hotts.cf^
+||tsst.rest^
+||ccar.bar^
+||125.230.145.92^
