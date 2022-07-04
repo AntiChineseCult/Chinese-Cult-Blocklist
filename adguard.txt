@@ -75,4 +75,5 @@
 ||hotts.cf^
 ||tsst.rest^
 ||ccar.bar^
+||visiontimes.com.au^
 ||125.230.145.92^
