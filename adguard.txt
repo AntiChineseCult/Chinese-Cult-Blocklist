@@ -76,4 +76,5 @@
 ||tsst.rest^
 ||ccar.bar^
 ||visiontimes.com.au^
+||qycz.org^
 ||125.230.145.92^
