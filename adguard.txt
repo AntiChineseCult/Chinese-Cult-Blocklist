@@ -79,5 +79,7 @@
 ||qycz.org^
 ||nodebe4.github.io^
 ||li-hongzhi-master.org^
+||backchina.com^
+||creaders.net^
 ||139.162.95.11^
 ||125.230.145.92^
